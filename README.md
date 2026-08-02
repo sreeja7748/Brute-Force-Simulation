@@ -29,3 +29,27 @@ A Flask-based web application that demonstrates how a **brute force attack** wor
 - Jinja2 Templates
 
 ---
+
+
+## 📂 Project Structure
+
+```
+Brute_Force/
+│
+├── app.py
+├── templates/
+│   ├── products.html
+│   ├── login.html
+│   ├── login_success.html
+│   └── dashboard.html
+│
+├── static/
+│   ├── css/
+│   ├── js/
+│   └── images/
+│
+├── username.txt
+└── README.md
+```
+
+---
