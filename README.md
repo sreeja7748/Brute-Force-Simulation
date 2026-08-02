@@ -141,3 +141,16 @@ This project demonstrates:
 - Secure coding awareness
 
 ---
+
+## 🔒 Future Improvements
+
+- Password hashing using bcrypt
+- Database integration (SQLite/MySQL)
+- Account lockout after multiple failed attempts
+- Rate limiting
+- CAPTCHA
+- Logging of failed login attempts
+- Two-Factor Authentication (2FA)
+- Password strength validation
+
+---
