@@ -5,3 +5,16 @@ A Flask-based web application that demonstrates how a **brute force attack** wor
 > ⚠️ **Disclaimer:** This project is intended solely for educational and ethical cybersecurity training. Do not use it against systems without explicit authorization.
 
 ---
+
+
+## 📌 Features
+
+- 👤 User Registration
+- 🔑 User Login System
+- 🛡️ Admin Login
+- 📊 Admin Dashboard
+- ⚡ Real-time login validation
+- 🚪 Logout functionality
+- 🎨 Responsive web interface using HTML, CSS, and Flask templates
+
+---
