@@ -127,3 +127,17 @@ Password: adminpassword
 
 ---
 
+
+## 🎯 Learning Objectives
+
+This project demonstrates:
+
+- User authentication
+- Session flow
+- Flask routing
+- Form handling
+- Login validation
+- Brute force attack concepts
+- Secure coding awareness
+
+---
