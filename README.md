@@ -18,3 +18,14 @@ A Flask-based web application that demonstrates how a **brute force attack** wor
 - 🎨 Responsive web interface using HTML, CSS, and Flask templates
 
 ---
+
+
+## 🛠️ Technologies Used
+
+- Python 3
+- Flask
+- HTML5
+- CSS3
+- Jinja2 Templates
+
+---
