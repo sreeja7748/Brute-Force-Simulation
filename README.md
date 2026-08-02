@@ -53,3 +53,56 @@ Brute_Force/
 ```
 
 ---
+
+
+
+## 🚀 Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/Brute_Force.git
+cd Brute_Force
+```
+
+### 2. Create a virtual environment (Optional)
+
+**Windows**
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+**Linux / macOS**
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 3. Install dependencies
+
+```bash
+pip install flask
+```
+
+or
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the application
+
+```bash
+python app.py
+```
+
+The application will start at:
+
+```
+http://127.0.0.1:5002
+```
+
+---
