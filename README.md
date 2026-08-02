@@ -116,3 +116,14 @@ Password: adminpassword
 *(These credentials are hardcoded for demonstration purposes.)*
 
 ---
+
+## 📖 How It Works
+
+1. Register a new user.
+2. Login using your registered credentials.
+3. Login as the administrator using the default admin account.
+4. Explore the dashboard and observe how authentication is handled.
+5. Understand how weak authentication systems can become vulnerable to brute-force attacks.
+
+---
+
