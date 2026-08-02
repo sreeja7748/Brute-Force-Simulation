@@ -105,3 +105,14 @@ http://127.0.0.1:5002
 ```
 
 ---
+
+## 🔑 Default Admin Credentials
+
+```
+Username: admin
+Password: adminpassword
+```
+
+*(These credentials are hardcoded for demonstration purposes.)*
+
+---
