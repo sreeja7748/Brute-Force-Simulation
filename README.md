@@ -187,3 +187,8 @@ git push origin feature-name
 This project is intended for educational purposes. Feel free to modify and improve it for learning.
 
 ---
+
+
+## 👨‍💻 Author
+**Sreeja Dey** 
+Developed as a cybersecurity learning project to demonstrate brute-force attack concepts using Flask.
