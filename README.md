@@ -181,3 +181,9 @@ git push origin feature-name
 5. Open a Pull Request
 
 ---
+
+## 📜 License
+
+This project is intended for educational purposes. Feel free to modify and improve it for learning.
+
+---
