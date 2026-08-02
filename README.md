@@ -55,7 +55,6 @@ Brute_Force/
 ---
 
 
-
 ## 🚀 Installation
 
 ### 1. Clone the repository
