@@ -191,4 +191,6 @@ This project is intended for educational purposes. Feel free to modify and impro
 
 ## 👨‍💻 Author
 **Sreeja Dey** 
+*Computer Science and Engineering Student*
+**Github**
 Developed as a cybersecurity learning project to demonstrate brute-force attack concepts using Flask.
